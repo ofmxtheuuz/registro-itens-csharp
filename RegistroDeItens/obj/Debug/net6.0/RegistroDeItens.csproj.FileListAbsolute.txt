@@ -1,0 +1,15 @@
+C:\Users\mxthe\RiderProjects\RegistroDeItens\RegistroDeItens\bin\Debug\net6.0\RegistroDeItens.exe
+C:\Users\mxthe\RiderProjects\RegistroDeItens\RegistroDeItens\bin\Debug\net6.0\RegistroDeItens.deps.json
+C:\Users\mxthe\RiderProjects\RegistroDeItens\RegistroDeItens\bin\Debug\net6.0\RegistroDeItens.runtimeconfig.json
+C:\Users\mxthe\RiderProjects\RegistroDeItens\RegistroDeItens\bin\Debug\net6.0\RegistroDeItens.dll
+C:\Users\mxthe\RiderProjects\RegistroDeItens\RegistroDeItens\bin\Debug\net6.0\RegistroDeItens.pdb
+C:\Users\mxthe\RiderProjects\RegistroDeItens\RegistroDeItens\obj\Debug\net6.0\RegistroDeItens.csproj.AssemblyReference.cache
+C:\Users\mxthe\RiderProjects\RegistroDeItens\RegistroDeItens\obj\Debug\net6.0\RegistroDeItens.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mxthe\RiderProjects\RegistroDeItens\RegistroDeItens\obj\Debug\net6.0\RegistroDeItens.AssemblyInfoInputs.cache
+C:\Users\mxthe\RiderProjects\RegistroDeItens\RegistroDeItens\obj\Debug\net6.0\RegistroDeItens.AssemblyInfo.cs
+C:\Users\mxthe\RiderProjects\RegistroDeItens\RegistroDeItens\obj\Debug\net6.0\RegistroDeItens.csproj.CoreCompileInputs.cache
+C:\Users\mxthe\RiderProjects\RegistroDeItens\RegistroDeItens\obj\Debug\net6.0\RegistroDeItens.dll
+C:\Users\mxthe\RiderProjects\RegistroDeItens\RegistroDeItens\obj\Debug\net6.0\refint\RegistroDeItens.dll
+C:\Users\mxthe\RiderProjects\RegistroDeItens\RegistroDeItens\obj\Debug\net6.0\RegistroDeItens.pdb
+C:\Users\mxthe\RiderProjects\RegistroDeItens\RegistroDeItens\obj\Debug\net6.0\RegistroDeItens.genruntimeconfig.cache
+C:\Users\mxthe\RiderProjects\RegistroDeItens\RegistroDeItens\obj\Debug\net6.0\ref\RegistroDeItens.dll
