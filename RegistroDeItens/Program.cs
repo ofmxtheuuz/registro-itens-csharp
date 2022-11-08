@@ -6,6 +6,7 @@ string[] cs = Console.ReadLine().Split(' ');
 for (int x = 0; x < cs.Length; x++)
 {
     var item = itens.FirstOrDefault(a => a.Name == cs[x]);
+    // verifica se existe o item
     if (itens.Contains(item))
     {
         item.Quantity++;
