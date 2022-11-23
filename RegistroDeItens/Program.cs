@@ -9,10 +9,12 @@ for (int x = 0; x < cs.Length; x++)
     // verifica se existe o item
     if (itens.Contains(item))
     {
+        // ja existe
         item.Quantity++;
     }
     else
     {
+        // nao existe
         itens.Add(new()
         {
             Name = cs[x],
